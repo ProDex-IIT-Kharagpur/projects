@@ -13,3 +13,7 @@ A portable emergency communication prototype that uses ESP32, LoRa (SX1278), and
 ## Fatigue Guard
 Fatigue-Guard is a wearable electromyography sensor designed to detect muscle fatigue in real-time during strength training and athletic activities. Using dry electrodes and time-domain signal processing, it alerts users the moment fatigue approaches dangerous levels, preventing form breakdown and injury. Affordable, accessible, thoroughly field-tested, and purpose-built for serious athletes everywhere.  
 [Link to the Repository](https://github.com/Aditya01902/Fatigue-Guard)
+
+## WildLife HV Wire Detector
+This project provides a portable solution for detecting hidden, illegal electrified wires in forest environments. Using an electrometer-based sensor circuit, the device identifies the electric fields surrounding high-voltage lines (11kV) from a safe distance. It is designed to assist forest personnel in locating hazardous energized wires that pose a lethal threat to wildlife, without requiring physical contact.  
+[Link to the Repository](https://drive.google.com/drive/folders/1X8M6BsL5G8N2cxB3aRUOQO_7uECxFMiu?usp=sharing)
